@@ -1,0 +1,54 @@
+[
+  {
+    "title": "EA SPORTS™ FIFA 23 Standard Edition PS4™",
+    "price": {
+      "usd": 25,
+      "ar": 9000
+    },
+    "description": "Experience the pinnacle of international football with the FIFA World Cup Qatar 2022™ and FIFA Women’s World Cup Australia and New Zealand 2023™ as post-launch content updates at no additional cost. Stay tuned for more details in the build-up to each tournament.",
+    "stock": 50,
+    "thumbnail": "https://ibb.co/nRjkSL3",
+    "category": "sports",
+    "timestamp": "12/29/2022, 2:51:37 AM",
+    "id": 1
+  },
+  {
+    "title": "Call of Duty®: WWII Gold Edition",
+    "price": {
+      "usd": 35,
+      "ar": 9200
+    },
+    "description": "Call of Duty: WWII is the fourteenth game in the Call of Duty franchise and Sledgehammer Games' second to be developed in a three-year development cycle. Set during World War II, it tells the story of an unbreakable brotherhood of common men fighting to preserve freedom in a world on the brink of tyranny.",
+    "stock": 20,
+    "thumbnail": "https://ibb.co/8D8zjvx",
+    "category": "shooter",
+    "timestamp": "12/29/2022, 2:57:58 AM",
+    "id": 2
+  },
+  {
+    "title": "NBA 2K23 Standar Edition PS4",
+    "price": {
+      "usd": 30,
+      "ar": 9000
+    },
+    "description": "NBA 2K23 is a basketball video game developed by Visual Concepts and published by 2K Sports, based on the National Basketball Association (NBA). It is the 24th installment in the NBA 2K franchise and the successor to NBA 2K22.",
+    "stock": 10,
+    "thumbnail": "https://ibb.co/FwjP9C6",
+    "category": "sports",
+    "timestamp": "12/29/2022, 3:01:06 AM",
+    "id": 3
+  },
+  {
+    "title": "Grand Theft Auto V PS4",
+    "price": {
+      "usd": 20,
+      "ar": 7500
+    },
+    "description": "Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.",
+    "stock": 13,
+    "thumbnail": "https://ibb.co/bHjQ8TN",
+    "category": "action",
+    "timestamp": "12/29/2022, 5:44:18 PM",
+    "id": 4
+  }
+]
